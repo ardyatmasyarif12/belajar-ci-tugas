@@ -114,8 +114,8 @@ Proyek menggunakan struktur MVC CodeIgniter 4:
 (# UAS Praktikum PWL - Manajemen Diskon dan Transaksi (CodeIgniter 4))
 
 ## Nama
-Nama: Arvendo Doni Duwi Mahendra
-NIM: A11.2023.15489
+Nama: Ardyatma Syarif
+NIM: A11.2023.15500
 Kelas: A11.4419
 ## Deskripsi Aplikasi
 Aplikasi ini dibangun menggunakan **CodeIgniter 4** sebagai bagian dari **Ujian Akhir Semester

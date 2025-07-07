@@ -138,7 +138,7 @@ Praktikum Web Lanjut**. Aplikasi ini memiliki fitur:
 5. Akses di browser: http://localhost:8080
 ## Akun Login
 ### Admin:
-- Username: Arvendo Duwi
+- Username: Ardyatma
 - Password: 1234567
 ### User:
 - Username: Sherly
